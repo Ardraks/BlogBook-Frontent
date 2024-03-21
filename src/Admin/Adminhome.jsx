@@ -7,9 +7,8 @@ const Adminhome = () => {
       <Adtopbar/>
       <img
         className="headerImg"
-        src="https://e1.pxfuel.com/desktop-wallpaper/243/810/desktop-wallpaper-run-as-administrator-system-admin.jpg"
-        alt=""
-        style={{marginTop:'-200px'}}
+        src="https://png.pngtree.com/thumb_back/fh260/background/20220303/pngtree-admin-token-inspector-support-text-photo-image_3540731.jpg"
+       alt='' style={{marginTop:'0px',height:'100%' }}
       />
 
     </div>
