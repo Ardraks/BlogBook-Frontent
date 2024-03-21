@@ -4,6 +4,8 @@ import Header from '../components/Header'
 import Sidebar from '../components/Sidebar'
 import Posts from '../components/Posts'
 import { useNavigate } from "react-router-dom";
+import "./Homepage.css";
+
 
 const Homepage = () => {
   
